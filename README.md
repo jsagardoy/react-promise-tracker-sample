@@ -1,7 +1,20 @@
 # react promise tracker sample
 
-Simple sample application that makes use of [react-promise-tracker](https://github.com/Lemoncode/react-promise-tracker).
+This is Simple sample application that makes use of [react-promise-tracker](https://github.com/Lemoncode/react-promise-tracker).
 
+# Prerequisites
+Install Node.js and npm (v8.9.4) if they are not already installed on your computer.
+
+Verify that you are running at least node v8.x.x and npm 5.x.x by running node -v and npm -v in a terminal/console window. Older versions may produce errors.
+
+# Steps
+* Run npm install 
+
+```npm install```
+
+* Run npm start to run the sample 
+
+```npm start```
 # About Lemoncode
 
 We are a team of long-term experienced freelance developers, established as a group in 2010.
